@@ -19,3 +19,8 @@ continue to the next round.
 The game can be played in Hebrew, English and Russian.
 
 In addition, there is a high-score leaderboard - showing the top 10 scorers of WikiRandom (whether they are iOS or Android users).
+
+##Here some screenshots from the application##
+
+<img src="Screenshot_2017_06_04_17_15_11.png" height="500"><img src="Screenshot_2017_06_04_17_15_11.png" height="500"><img src="Screenshot_2017_06_04_17_15_11.png" height="500">
+
